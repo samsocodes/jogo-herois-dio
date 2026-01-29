@@ -20,11 +20,11 @@ node jogo-herois.js
 ## Saída do Programa
 
 ===== INFORMAÇÕES DOS HERÓIS =====
-Gandalf (mago) tem 150 anos - EXPERIENTE
-Aragorn (guerreiro) tem 35 anos - EXPERIENTE
-Liu Kang (monge) tem 40 anos - EXPERIENTE
-Hanzo (ninja) tem 28 anos - NOVATO
-Legolas (arqueiro) tem 25 anos - NOVATO
+- Gandalf (mago) tem 150 anos - EXPERIENTE
+- Aragorn (guerreiro) tem 35 anos - EXPERIENTE
+- Liu Kang (monge) tem 40 anos - EXPERIENTE
+- Hanzo (ninja) tem 28 anos - NOVATO
+- Legolas (arqueiro) tem 25 anos - NOVATO
 
 ===== ATAQUES DOS HERÓIS =====
 1. o mago atacou usando usou magia
